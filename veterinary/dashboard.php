@@ -30,7 +30,7 @@ $totalLivestock = $result->fetch_assoc()['total'];
 <html>
 <head>
     <title>Vet Dashboard</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="vet.css">
 </head>
 <body>
 
