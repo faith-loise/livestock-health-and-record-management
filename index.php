@@ -10,15 +10,15 @@
 <body>
 
 <!-- Navbar -->
-<nav class="navbar">
+<!-- <nav class="navbar">
     <div class="nav-inner">
-        <span class="brand">LHVTS</span>
+        
         <div class="nav-links">
             <a href="login.php">Login</a>
             <a href="signup.php" class="btn-primary">Sign Up</a>
         </div>
     </div>
-</nav>
+</nav> -->
 
 <!-- Hero -->
 <section class="hero">
